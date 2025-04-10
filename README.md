@@ -9,13 +9,9 @@ I'm James Starwin, a Computer Engineering student at the Polytechnic University 
 
 🔹 **Python Development** – Creating projects with Tkinter, AI models, and automation
 
-🔹 **AI & Chatbots** – Implementing and improving conversational AI (DumbGPT)
-
 🔹 **Software & System Development** – Transforming terminal-based applications into interactive GUIs 
 
 ## 🛠 What I'm Working On
-✅ Enhancing my Tkinter-based terminal interface for interactive user input
-
 ✅ Improving my DumbGPT chatbot for local execution and better AI responses
 
 ✅ Developing Python projects
